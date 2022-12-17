@@ -1,7 +1,7 @@
 17.12.2022
 
-Перемещение в ОП
-https://inside.oooeidos.ru/waybills/73009
+РџРµСЂРµРјРµС‰РµРЅРёРµ РІ РћРџ
+  $$LINK$$
 102 - 5
 930 - 2
 993 - 1000
@@ -14,8 +14,8 @@ https://inside.oooeidos.ru/waybills/73009
 9480 - 99000
 9619 - 1
 
-Перемещение в ОСС
-https://inside.oooeidos.ru/waybills/73008
+РџРµСЂРµРјРµС‰РµРЅРёРµ РІ РћРЎРЎ
+  $$LINK$$
 17 - 1
 1737 - 1
 1740 - 1
@@ -29,14 +29,14 @@ https://inside.oooeidos.ru/waybills/73008
 8055 - 1
 8107 - 1
 
-Перемещение в ОСР
-https://inside.oooeidos.ru/waybills/73007
+РџРµСЂРµРјРµС‰РµРЅРёРµ РІ РћРЎР 
+  $$LINK$$
 727 - 1
 7983 - 1
 7986 - 1
 
-Перемещение в SMT
-https://inside.oooeidos.ru/waybills/73006
+РџРµСЂРµРјРµС‰РµРЅРёРµ РІ SMT
+  $$LINK$$
 76 - 45
 87 - 12
 113 - 2
